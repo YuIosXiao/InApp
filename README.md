@@ -40,46 +40,46 @@
     
     ORIGINAL JSON: 
     
-    {
-    "receipt":
+        {
+        "receipt":
     
-    {
+            {
     
-        "original_purchase_date_pst":"2015-06-22 20:56:34 America/Los_Angeles", //购买时间,太平洋标准时间
-        
-        "purchase_date_ms":"1435031794826", //购买时间毫秒
-        
-        "unique_identifier":"5bcc5503dbcc886d10d09bef079dc9ab08ac11bb",//唯一标识符
-        
-        "original_transaction_id":"1000000160390314", //原始交易ID
-        
-        "bvrs":"1.0",//iPhone程序的版本号
-        
-        "transaction_id":"1000000160390314", //交易的标识
-        
-        "quantity":"1", //购买商品的数量
-        
-        "unique_vendor_identifier":"AEEC55C0-FA41-426A-B9FC-324128342652", //开发商交易ID
-        
-        "item_id":"1008526677",//App Store用来标识程序的字符串
-        
-        "product_id":"cosmosbox.strikehero.gems60",//商品的标识 
-        
-        "purchase_date":"2015-06-23 03:56:34 Etc/GMT",//购买时间
-        
-        "original_purchase_date":"2015-06-23 03:56:34 Etc/GMT", //原始购买时间
-        
-        "purchase_date_pst":"2015-06-22 20:56:34 America/Los_Angeles",//太平洋标准时间
-        
-        "bid":"com.cosmosbox.StrikeHero",//iPhone程序的bundle标识
-        
-        "original_purchase_date_ms":"1435031794826"//毫秒
-        
-    },
+                "original_purchase_date_pst":"2015-06-22 20:56:34 America/Los_Angeles", //购买时间,太平洋标准时间
+
+                "purchase_date_ms":"1435031794826", //购买时间毫秒
+
+                "unique_identifier":"5bcc5503dbcc886d10d09bef079dc9ab08ac11bb",//唯一标识符
+
+                "original_transaction_id":"1000000160390314", //原始交易ID
+
+                "bvrs":"1.0",//iPhone程序的版本号
+
+                "transaction_id":"1000000160390314", //交易的标识
+
+                "quantity":"1", //购买商品的数量
+
+                "unique_vendor_identifier":"AEEC55C0-FA41-426A-B9FC-324128342652", //开发商交易ID
+
+                "item_id":"1008526677",//App Store用来标识程序的字符串
+
+                "product_id":"cosmosbox.strikehero.gems60",//商品的标识 
+
+                "purchase_date":"2015-06-23 03:56:34 Etc/GMT",//购买时间
+
+                "original_purchase_date":"2015-06-23 03:56:34 Etc/GMT", //原始购买时间
+
+                "purchase_date_pst":"2015-06-22 20:56:34 America/Los_Angeles",//太平洋标准时间
+
+                "bid":"com.cosmosbox.StrikeHero",//iPhone程序的bundle标识
+
+                "original_purchase_date_ms":"1435031794826"//毫秒
+
+            },
     
-    "status":0 //状态码,0为成功
+        "status":0 //状态码,0为成功
     
-}
+    }
 
 苹果状态码
 
